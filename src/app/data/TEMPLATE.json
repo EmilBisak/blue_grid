@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "5cae1260ab189264591f23c2",
+        "name": "e20",
+        "description": "This template is recommended for smaller entry level needs.",
+        "features": [
+            "Unlimited Sites",
+            "Unlimited SSL Certificates",
+            "1TB CDN Bandwidth",
+            "5M WAF requests",
+            "5 WAF Custom Rules",
+            "2M DNS Requests",
+            "1 Monitored Service",
+            "Network Layer DDoS Protection"
+        ],
+        "price": "$20/month"
+    },
+    {
+        "_id": "5cae127bab189264591f23c3",
+        "name": "e200",
+        "description": "This template is recommended for SaaS providers, or popular blogs.",
+        "features": [
+            "Unlimited Sites",
+            "Unlimited SSL Certificates",
+            "10TB CDN Bandwidth",
+            "10M WAF requests",
+            "10 WAF Custom Rules",
+            "5M DNS Requests",
+            "5 Monitored Services",
+            "Network Layer DDoS Protection"
+        ],
+        "price": "$200/month"
+    },
+    {
+        "_id": "5cae1280ab189264591f23c4",
+        "name": "e2000",
+        "description": "This template is ready for Enterprise. Start saving today.",
+        "features": [
+            "Unlimited Sites",
+            "Unlimited SSL Certificates",
+            "100TB CDN Bandwidth",
+            "50M WAF requests",
+            "20 WAF Custom Rules",
+            "10M DNS Requests",
+            "10 Monitored Services",
+            "Network Layer DDoS Protection"
+        ],
+        "price": "$2000/month"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+

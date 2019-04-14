@@ -1,0 +1,45 @@
+header h1 {
+    font-size: 1.3em;
+    padding-top: 10px;
+}
+
+header nav {
+    border-bottom: 1px solid #e2e2e2;
+    margin-bottom: 30px;
+}
+
+header ul {
+    list-style-type: none;
+    display: flex;
+    margin-top: 20px;
+}
+
+header ul li {
+    color: #5d646f;
+    font-size: 15px;
+    font-weight: 500;
+    margin-right: 30px;
+    padding: 10px 0;
+    border-bottom: 2px solid #f9f9f9;
+}
+
+header ul li:hover {
+    color: #000;
+    cursor: pointer;
+}
+
+header ul li:first-of-type {
+    margin-left: 20px;
+}
+header ul li:last-of-type {
+    margin-right: 0;
+}
+
+.active {
+    color: #183483;
+    border-bottom: 2px solid #183483;
+}
+
+header ul li:hover.active {
+    color: #183483;
+}
