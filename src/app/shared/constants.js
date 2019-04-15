@@ -1,0 +1,1 @@
+export const DOMAIN = "https://api.kadporastembicu.dev/v1/";
